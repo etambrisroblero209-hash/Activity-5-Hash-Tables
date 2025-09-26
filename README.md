@@ -49,7 +49,7 @@ using namespace std;
 int main() {
     string myName = "John Doe";
    
-    hash<std::string> hasher;
+    hash<string> hasher;
 
     size_t hashValue = hasher(myName);
 
