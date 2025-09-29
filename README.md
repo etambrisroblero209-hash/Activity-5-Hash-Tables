@@ -71,5 +71,6 @@ After:
 Index:   0    1    2    3    4    5
 Table:  200  400   T    T   50   -
 
-Video: 
+Video: https://youtu.be/KwjUwj4Q6n0
+
 
